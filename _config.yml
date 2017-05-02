@@ -205,7 +205,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: normal
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
@@ -276,6 +276,9 @@ duoshuo_share: true
 # CNZZ count
 #cnzz_siteid:
 
+# Local search
+local_search:
+  enable: true
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
