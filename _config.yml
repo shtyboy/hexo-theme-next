@@ -49,8 +49,8 @@ menu:
   archives: /archives
   tags: /tags
   about: /about
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+  # sitemap: /sitemap.xml
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -306,12 +306,12 @@ han: false
 baidu_analytics: c14c3a6fbda93cb617f362a5adcbc076
 
 # Duoshuo ShortName
-duoshuo_shortname: "shtyblog"
+# duoshuo_shortname: "shtyblog"
 
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: "shtyboy"
   count: true
 
 # Hypercomments
@@ -497,7 +497,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
