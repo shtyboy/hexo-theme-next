@@ -6,6 +6,9 @@
     <i class="fa fa-{{ theme.authoricon }}"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=18011284">
+    <span>冀ICP备18011284号-1</span>
+  </a>
 </div>
 
 {% if theme.copyright %}

@@ -626,5 +626,9 @@ css: css
 js: js
 images: images
 
+beian:
+  txt: "冀ICP备18011284号-1"
+  url: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=18011284"
+
 # Theme version
 version: 5.1.1
